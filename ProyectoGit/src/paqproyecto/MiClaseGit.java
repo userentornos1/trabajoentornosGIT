@@ -12,6 +12,12 @@ public class MiClaseGit {
 		System.out.println("El resultado de 7 - 3 es igual a " + (numero1-numero2));
 		
 		System.out.println("El resultado de 7 x 3 es igual a " +(numero1*numero2));
+		System.out.println();
+		System.out.println("7 + 3 	Resultado:" + (numero1+numero2));
+		System.out.println();
+		System.out.println("7 - 3	Resultado " + (numero1-numero2));
+		System.out.println();
+		System.out.println("7 x 3 	Resultado " +(numero1*numero2));
 	
 
 	}
